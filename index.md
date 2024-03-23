@@ -76,6 +76,28 @@
 ![](https://github.com/8ipr/8ipr/assets/163694726/f28dc549-38d9-4d3b-aa92-a084fa04e68a)
 ![](https://github.com/8ipr/8ipr/assets/163694726/c9a011ed-6911-4aff-824a-951b17f5f574)
 
+# Nike
+
+![](https://github.com/8ipr/8ipr/assets/163694726/9ec31213-199a-459b-814f-7c4ccf4f89c8)
+![](https://github.com/8ipr/8ipr/assets/163694726/9086caa9-b7ba-45b9-bc30-279db4b203c0)
+![](https://github.com/8ipr/8ipr/assets/163694726/4520ed5f-3b2e-4276-9250-a11e818d7add)
+![](https://github.com/8ipr/8ipr/assets/163694726/ed2f0468-132a-4975-9b20-81db935d4bf7)
+
+# Adidas
+
+![](https://github.com/8ipr/8ipr/assets/163694726/c5cadefd-df25-4b40-b904-88a518ca28e0)
+![](https://github.com/8ipr/8ipr/assets/163694726/6bc501a7-ff4c-498e-847e-341076f2c687)
+![](https://github.com/8ipr/8ipr/assets/163694726/217eca8d-07cc-4747-a0a2-98bd66368cef)
+![](https://github.com/8ipr/8ipr/assets/163694726/b34dd173-4a14-4336-9923-cab9e3dd0c47)
+![](https://github.com/8ipr/8ipr/assets/163694726/2af8a28e-5fce-4ee3-89cd-59a0b1857286)
+
+# HuaWei
+
+![](https://github.com/8ipr/8ipr/assets/163694726/4d79302a-95b0-4342-90f9-da32ae1c24ea)
+![](https://github.com/8ipr/8ipr/assets/163694726/30bfa10c-cc9b-4839-b362-30c4ac980b8a)
+![](https://github.com/8ipr/8ipr/assets/163694726/34add3f1-b3ba-4c28-b2f7-49fc26cdeb67)
+
+
 # Tools
 
 1. [讯飞星火](https://xinghuo.xfyun.cn/)
