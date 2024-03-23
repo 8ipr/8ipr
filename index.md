@@ -19,6 +19,8 @@
 ![](https://github.com/8ipr/8ipr/assets/163694726/5f06721e-db9a-428a-b4ae-de999933d24c)
 > [Allen Iverson's top NBA moments: The absolute best of Bubba Chuck](https://www.si.com/nba/2016/09/07/allen-iverson-76ers-nuggets-georgetown-hall-of-fame-michael-jordan-tyronn-lue)
 
+![](https://github.com/8ipr/8ipr/assets/163694726/3af8d03b-afa7-48d1-b1a1-096817a8b653)
+
 ![](https://github.com/8ipr/8ipr/assets/163694726/991858e0-e3bc-4570-b767-390daa39f4f4)
 > 2001 Finals Game 1: [Allen Iverson's 48 points](https://www.nba.com/watch/video/game-1-allen-iversons-48-points-leads-philadelphia-in-surprising-win) leads Philadelphia in surprising win, 76ers G. Allen Iverson scored 48 points to stun the Lakers in Game 1 of the 2001 NBA Finals.
 
@@ -35,6 +37,44 @@
 
 ![](https://github.com/8ipr/8ipr/assets/163694726/8977da7a-c06e-4992-9cd1-885072005b2d)
 > 林书豪是一位华裔篮球运动员。他曾经在2012年的NBA赛场上掀起了一股“林来疯”。林书豪在自己职业生涯首发的前四场比赛中，共砍下了109分，超越了乔丹、艾弗森、奥尼尔等传奇巨星，排名历史第一。看到林书豪如此亮眼的表现，有球队给他开出了丰厚的报酬，认为林书豪一定会成为超级巨星。但事实上，随着时间的推移，林书豪的表现逐渐趋于稳定，并没有成为超级巨星。这其实也是[均值回归的原理](https://www.dedao.cn/course/article?id=WqavDm012GolV7OPaOVxPjEy8zdk73&source=search)，和刚刚说的基金经理回归平均水平一样。林书豪在“林来疯”期间的表现，可以看作是一个极端值。想挖他的球队应该长期观察、多次观察他在球场上的表现。时间越长，观察越多，均值就会越明显，噪声自然就越小。
+
+# Michael Jordan
+
+![](https://github.com/8ipr/8ipr/assets/163694726/8f9515fc-8873-485b-a6e8-1d8f105d4b1c)
+![](https://github.com/8ipr/8ipr/assets/163694726/107c1b5c-495b-4a2d-ba3d-cfbc0afdeefd)
+![](https://github.com/8ipr/8ipr/assets/163694726/7b2bf170-67db-448a-95e6-fe3f519db2b5)
+![](https://github.com/8ipr/8ipr/assets/163694726/8ef378d0-a06b-41e7-be22-24598a4f1b6a)
+![](https://github.com/8ipr/8ipr/assets/163694726/c216fe91-06e6-4197-886a-915d1bbb45ff)
+
+
+
+![](https://github.com/8ipr/8ipr/assets/163694726/69f844a4-a7d8-47bc-a2bc-646fb5b0d3a2)
+![](https://github.com/8ipr/8ipr/assets/163694726/659cada5-50ee-4b95-b015-a95ae11edb85)
+![](https://github.com/8ipr/8ipr/assets/163694726/52b96538-cd88-4d0b-8612-eb2a05f6dfe2)
+![](https://github.com/8ipr/8ipr/assets/163694726/2edaae4a-4963-40be-ae8b-e3b234c378cf)
+![](https://github.com/8ipr/8ipr/assets/163694726/ced998f1-f26c-47cb-a401-a4cf1437060a)
+![](https://github.com/8ipr/8ipr/assets/163694726/e76f7d61-2e4c-446f-8bfc-dd6679bf833b)
+![](https://github.com/8ipr/8ipr/assets/163694726/553f080e-4444-4164-9212-26ad42c2458b)
+![](https://github.com/8ipr/8ipr/assets/163694726/31e015a9-30ed-477f-941a-fa1e475b08ab)
+![](https://github.com/8ipr/8ipr/assets/163694726/f74b7963-1506-4d4b-aa74-184c7d3bfbd9)
+![](https://github.com/8ipr/8ipr/assets/163694726/ac54ecc2-928c-4910-86a7-c5927b7a8ed3)
+![](https://github.com/8ipr/8ipr/assets/163694726/90a2dc39-487c-4c39-a18f-5f837fdcb7bf)
+![](https://github.com/8ipr/8ipr/assets/163694726/2152aa1c-f64e-4cd5-8d4e-324e4eef0b64)
+![](https://github.com/8ipr/8ipr/assets/163694726/2cab0ed5-0f2c-4c12-8577-75ed33fa2b2b)
+![](https://github.com/8ipr/8ipr/assets/163694726/e9908706-e0dc-4376-8552-608e8d0148ba)
+![](https://github.com/8ipr/8ipr/assets/163694726/7f0dcfc2-fdda-4a14-bfb0-3818ccfcc2d5)
+![](https://github.com/8ipr/8ipr/assets/163694726/34e99c4d-9938-4373-a29f-1f5065d9d357)
+![](https://github.com/8ipr/8ipr/assets/163694726/d433c995-c94a-4400-82e4-dc81a0118972)
+![](https://github.com/8ipr/8ipr/assets/163694726/1fe7c208-bf95-4671-bc13-bde86931e248)
+![](https://github.com/8ipr/8ipr/assets/163694726/e207b90c-ff90-4ac4-ba1d-c80be4c986ba)
+![](https://github.com/8ipr/8ipr/assets/163694726/c2df3997-9bb7-4cb3-8512-d01b1f140aa4)
+![](https://github.com/8ipr/8ipr/assets/163694726/9dd798c5-8e3d-430c-869b-f91ef21a8091)
+![](https://github.com/8ipr/8ipr/assets/163694726/b955330a-a4cf-4677-9984-2f6a99d7ef49)
+![](https://github.com/8ipr/8ipr/assets/163694726/af7ae89e-04b4-414f-88c9-a2147d384d38)
+![](https://github.com/8ipr/8ipr/assets/163694726/e28b2697-83cc-4600-ad4f-42162a9169b6)
+![](https://github.com/8ipr/8ipr/assets/163694726/383bc201-901c-4809-a11d-2ebb8f25cc03)
+![](https://github.com/8ipr/8ipr/assets/163694726/f28dc549-38d9-4d3b-aa92-a084fa04e68a)
+![](https://github.com/8ipr/8ipr/assets/163694726/c9a011ed-6911-4aff-824a-951b17f5f574)
 
 # Tools
 
