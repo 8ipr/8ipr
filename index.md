@@ -227,8 +227,9 @@ Let's do it --> Just Do It
 # Tools
 
 1. [讯飞星火](https://xinghuo.xfyun.cn/)
-2. [智谱清言](https://chatglm.cn/main/alltoolsdetail)
-3. [Hulu AI](https://h5.cxyhub.com/home)
-4. [秘塔AI搜索](https://metaso.cn/)
-5. [perplexity](https://www.perplexity.ai/)
-6. [智爱法律大模型](https://www.zhiexa.com/index)
+2. [文心一言](https://yiyan.baidu.com/)
+3. [智谱清言](https://chatglm.cn/main/alltoolsdetail)
+4. [Hulu AI](https://h5.cxyhub.com/home)
+5. [秘塔AI搜索](https://metaso.cn/)
+6. [perplexity](https://www.perplexity.ai/)
+7. [智爱法律大模型](https://www.zhiexa.com/index)
